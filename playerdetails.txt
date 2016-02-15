@@ -1,0 +1,5 @@
+PlayerName,Goals,OffSides,Fouls
+John,10,2,7
+Mikel,7,5,5
+Mahrez,12,3,2
+Messi,8,6,3
